@@ -1,3 +1,137 @@
-....
-
-Paste Your FB JSON COOKIES ✅
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261591572260494%22%3A%22hS16ej5V%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "datr",
+        "value": "5uX9alAdFYntcuqPj2YXBC4W",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "sb",
+        "value": "5uX9arQFaFbi3HVTR6APCWn_",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2.0687501430511475",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "wd",
+        "value": "523x1161",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61591572260494",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "xs",
+        "value": "2%3AIwbHQtatLG3asw%3A2%3A1795024442%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "oo",
+        "value": "v1%7C3%3A1795024445",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "pas",
+        "value": "61591572260494%3A2wj0l6pbHk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B1004x522x2.0687501430511475",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101721738%3BT%3A29917095",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3360%3Btimestamp%3A1795025735",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-18T18:15:53.698Z",
+        "lastAccessed": "2026-11-18T18:15:53.698Z"
+    }
+]
