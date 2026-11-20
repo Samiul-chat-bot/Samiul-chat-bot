@@ -5,18 +5,18 @@ module.exports = {
     name: "age",
     aliases: ["myage"],
     version: "6.0",
-    author: "𝐌𝐨𝐡𝐚ᴍᴍᴀᴅ 𝐀ᴋᴀsʜ",
-    role: 0,
+    author: "Samiul islam",
+    role: 1,
     category: "AI",
-    guide: "age <YYYY | DD/MM/YYYY | D Month YYYY | D/Month/YYYY>",
-    countDown: 5
+    guide: "age <2007 | 23/4/2007 | 23/4/2007 | 23/4/2007>",
+    countDown: 1
   },
 
   onStart: async function ({ api, event, args }) {
     try {
       if (!args.length) {
         return api.sendMessage(
-          "⚠️ Uꜱᴇ:\n• age 2007\n• age 01/05/2007\n• age 3 May 2007\n• age 3/may/2007",
+          "⚠️ Uꜱᴇ:\n• age 2007\n• age 23/04/2007\n• age 23 April 2007\n• age 23/April /2007",
           event.threadID
         );
       }
