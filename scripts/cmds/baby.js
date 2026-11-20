@@ -36,7 +36,7 @@ function getBotUID(api) {
 module.exports.config = {
   name: "baby",
   version: "8.0.1",
-  role: 0,
+  role: 1,
   author: "EryXenX",
   countTime: 0,
   category: "chat",
